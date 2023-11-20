@@ -19,6 +19,20 @@ Visitors to your portfolio site want to learn about you, in memorable, bite-size
 A few punchy images will really help your page stand out, and make it your own. Gather images for the following:
 
 1. A headshot of your wonderful face, approximately 200x250 pixels.
+![Headshot](img/headshot.jpg)
+
 2. A background image, approximately 1500x700 pixels.
+![Background 1](img/b.png)
+![Background 2](img/bb.jpeg)
+
 3. At least three screenshots of the best-looking parts of a previous project, like your Code 201 final project.
+![Final Best 1](img/best1.png)
+![Final Best 2](img/best2.png)
+![Final Best 3](img/best3.png)
+
 4. At least three screenshots each, of two other projects you have worked on. Salmon Cookies? Odd Duck?
+
+![Odd1](img/odd1.png)
+![Odd2](img/odd2.png)
+![Salmon1](img/salmon1.png)
+![Salmon1](img/salmon2.png)
